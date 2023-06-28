@@ -4,7 +4,7 @@
 const projects = [
 	{
 		id: 1,
-		title: 'Name Health Platforms',
+		title: 'Name Name Platforms',
 		category: 'Web Application',
 		img: require('@/assets/images/web-project-2.jpg'),
 	},
