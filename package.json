@@ -31,7 +31,8 @@
     "eslint-plugin-vue": "^7.0.0",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.4",
-    "vue-cli-plugin-tailwind": "3.0.0"
+    "vue-cli-plugin-tailwind": "3.0.0",
+    "execa": "latest"
   },
   "eslintConfig": {
     "root": true,
